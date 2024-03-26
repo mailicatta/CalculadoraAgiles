@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace CalculadoraAgiles
 {
-    public class Calculadora
+    public class CalculadoraMetodos
     {
-        public void Sumar()
+        public int Sumar(int x, int y)
         {
-            
+            return x + y;
         }
     }
 }
