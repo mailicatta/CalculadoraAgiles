@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace CalculadoraAgiles
 {
-    public class Class1
+    public class Calculadora
     {
+        public void Sumar()
+        {
+            
+        }
     }
 }
