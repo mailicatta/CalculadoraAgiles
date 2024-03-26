@@ -8,7 +8,7 @@ namespace CalculadoraAgiles
 {
     public class CalculadoraMetodos
     {
-        public int Sumar(int x, int y)
+        public int sumar(int x, int y)
         {
             return x + y;
         }
